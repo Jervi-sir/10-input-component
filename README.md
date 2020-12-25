@@ -66,8 +66,5 @@ also include link for [Material icons]  (https://fonts.googleapis.com/icon?famil
 - GitHub   [@Jervi-sir](https://github.com/Jervi-sir)
 - Facebook [Gacem_humen](https://www.facebook.com/gacem.humen/)
 - Twitter  comingsoon
-<<<<<<< HEAD
 - Youtube  comingsoon
-=======
-- Youtube  comingsoon
->>>>>>> 4ae0723d1f14e9ddebe35cbb706a09a1faa3ee0b
+
